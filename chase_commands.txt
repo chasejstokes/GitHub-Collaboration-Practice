@@ -1,0 +1,7 @@
+git checkout -b chase_branch
+code README.md
+touch chase_commands.txt
+code chase_commands.txt
+git add *
+git commit -m "chase stokes updates to README, addition of text file with commands run"
+git push --set-upstream origin chase_branch
