@@ -8,4 +8,4 @@ Michi Kakebayashi, Masters of Public Policy, Public Finance
 Christian Hosam
 PhD Candidate - Political Science (Congressional Black Caucus, Congress, Black Politics, etc_
 
-Chase Stokes
+Chase Stokes: Information Sciences (interests: information visualization, text, misinformation, perception)
