@@ -1,6 +1,6 @@
 Noah Bender
 
-Michi Kakebayashi
+Michi Kakebayashi, Masters of Public Policy, Public Finance
 
 Christian Hosam
 
