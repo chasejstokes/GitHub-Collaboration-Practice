@@ -1,0 +1,7 @@
+git checkout -b michi_branch
+code README.md
+touch michi_commands.txt
+code michi_commands.txt
+git add *
+git commit -m "michi updates information"
+git push --set-upstream origin michi_branch
